@@ -8,6 +8,7 @@ y cada jugador tiene una lista asociada con los botones que ha presionado. Enton
 de la lista de cada jugador, luego se chequea quien es el ganador, además de setear los botones
 como ya presionados y con un color y texto representando quien lo presionó.
 
+**Revisar los TODO*/ /*que es donde deberán completar código.
 
  TAREA: *Completar código en CheckWinner()
         *Agregar pantalla de inicio que nos lleve a Tateti_View
